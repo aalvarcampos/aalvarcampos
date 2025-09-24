@@ -31,5 +31,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/OpenAI_Logo.svg" height="40" alt="OpenAI Gym logo" />
 </div>
